@@ -505,10 +505,6 @@
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
-  .active a {
-    @include yiq-contrasted($active-color);
-  }
-
 }
 
 .toc__menu {
