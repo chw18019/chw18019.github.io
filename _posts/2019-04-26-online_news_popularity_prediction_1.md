@@ -31,30 +31,30 @@ There're several things should be eliminated to achieve a refined model and inte
 The methodology of this study is followed by SEMMA(Shmueli, Bruce, Stephens & Patel, 2017, p. 18.)
 - **Sample**: 50% training, 30% validation, and 20% testing dataset
 - **Explore**: 
-    - The distribution of shares
-    - The correlations between variables
-    - Missing values and outliers
+  - The distribution of shares
+  - The correlations between variables
+  - Missing values and outliers
 - **Modify**: 
-    - excluding missing data
-    - excluding outliers
-    - principal component analysis
-    - combined dummy variables into one categorical variables
-    - creating an alternate decision variable
-    - variable selection
-    - undersampling
+  - excluding missing data
+  - excluding outliers
+  - principal component analysis
+  - combined dummy variables into one categorical variables
+  - creating an alternate decision variable
+  - variable selection
+  - undersampling
 - **Models**: 
-    - Logistic regression
-    - Decision tree
-    - Bootstrap forest
-    - Boosted tree
-    - K-Nearest Neighbor (KNN)
-    - Neural Network
-    - Linear Discriminant Analysis
+  - Logistic regression
+  - Decision tree
+  - Bootstrap forest
+  - Boosted tree
+  - K-Nearest Neighbor (KNN)
+  - Neural Network
+  - Linear Discriminant Analysis
 - **Assess**: 
-    - Root Mean Square Error (RMSE)
-    - Accuracy
-    - Accuracy of 1's
-    - test AUC (area underneath the test ROC curve)
+  - Root Mean Square Error (RMSE)
+  - Accuracy
+  - Accuracy of 1's
+  - test AUC (area underneath the test ROC curve)
 
 # Results
 Based on the logistic regression model, we made several recommendations to maximize shares on social media as following:
