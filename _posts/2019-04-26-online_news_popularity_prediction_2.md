@@ -10,7 +10,8 @@ toc: true
 toc_label: "Content"
 #toc_sticky: true
 ---
-_Followed by [the last post](https://chw18019.github.io/online_news_popularity_prediction_1/), you can find how the analyses were conducted. In this post, I used [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) to perform the same analysis with `Python`, including **data import, data pre-processing, and modeling**. For the complete jupyter notebook, you can find it on my GitHub repository [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/chw18019/OnlineNewsPopularity/blob/master/TDI_ProjectProposal.ipynb)._{: .notice--primary}
+_Followed by [the last post](https://chw18019.github.io/online_news_popularity_prediction_1/), you can find how the analyses were conducted. In this post, I used [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) to perform the same analysis with `Python`, including **data import, data pre-processing, and modeling**. For the complete jupyter notebook, you can find it on my GitHub repository [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/chw18019/OnlineNewsPopularity/blob/master/TDI_ProjectProposal.ipynb)._
+{: .notice--primary}
 
 ## Data Import
 First of all, you need to mount your google drive, which means you authorize google colab to use your files in the drive.
