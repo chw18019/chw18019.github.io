@@ -2,12 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Readings"
-    url: /readings/
-  - title: "Resume"
-    url: /assets/docs/Resume.pdf
+  - title: "Data Wrangling Projects"
+    url: /data-wrangling/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
