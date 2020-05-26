@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Jason Leung**](https://unsplash.com)"
 gallery:
   - url: http://themlbook.com/
-    image_path: /assets/reading/100pages_ML.jpg
+    image_path: /assets/reading/100pages_ML.jpeg
     alt: "placeholder image 1"
     title: "The Hundred-Page ML book"
   - url: https://christophm.github.io/interpretable-ml-book/
