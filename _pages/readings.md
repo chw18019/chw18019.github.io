@@ -11,7 +11,8 @@ gallery:
     image_path: /assets/reading/towards_ds.jpg
     alt: "placeholder image 1"
     title: "Towards Data Science - Podcast"
-  - url: http://themlbook.com/
+  - aspect: 1.33
+    url: http://themlbook.com/
     image_path: /assets/reading/100pageML.jpg
     alt: "placeholder image 2"
     title: "The Hundred-Page ML book"
