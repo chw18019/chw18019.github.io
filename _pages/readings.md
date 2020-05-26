@@ -32,6 +32,6 @@ gallery2:
 ---
 # Finished 
 
-{% include gallery id= 'gallery1' class="full" %}
+{% include gallery id= 'gallery1' %}
 
 
