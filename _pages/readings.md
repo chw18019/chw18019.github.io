@@ -30,8 +30,6 @@ gallery2:
 
 
 ---
-# Finished 
-
 {% include gallery id= 'gallery1' %}
 
 
