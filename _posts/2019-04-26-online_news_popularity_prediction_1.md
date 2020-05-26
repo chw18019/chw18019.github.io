@@ -5,6 +5,8 @@ tags: [Machine Learning, Data Pre-processing, Python]
 header:
   overlay_image: /assets/190426/ytcount-online_news.jpg
   caption: "Photo credit: [**YTcount**](https://unsplash.com)"
+  teaser: /assets/190426/ytcount-online_news.jpg
+
 excerpt: "Using Python to perform data pre-processing and data modeling. (Difficulty: ★★☆☆☆)"
 ---
 This is a school project that helps to get familiar with algorithms and analytical skills. The team used JMP software (from SAS) to do all the work. This work focus on the methodology. For more details, you can find it in [this whitepaper](https://github.com/chw18019/OnlineNewsPopularity/blob/master/Whitepaper_OnlineNewsPopularity.pdf).
