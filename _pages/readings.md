@@ -6,8 +6,6 @@ header:
   overlay_image: /assets/images/jason-leung.jpg
   #overlay_filter: 0.01 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Jason Leung**](https://unsplash.com)"
----
-## Now Reading
 gallery:
   - url: https://towardsdatascience.com/podcast/home
     image_path: /assets/reading/towards_ds.jpg
@@ -21,5 +19,12 @@ gallery:
     image_path: /assets/reading/interpretable_ML.jpg
     alt: "placeholder image 3"
     title: "Interpretable Machine Learning"
+
+---
+## Now Reading
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+
 
 ## Finished
