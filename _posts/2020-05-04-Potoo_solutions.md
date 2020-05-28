@@ -8,15 +8,13 @@ header:
 excerpt: "Predict the third-party sellers' resources using Python to build a multi-label classification problem. (Difficulty: ★★★☆☆)"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+
 ---
 _This capstone project is guided by Professor Jennifer Eigo and Potoo CEO, Fred Dimyan. In this post, I'll provide the partial code to manifest some important techniques with `Python` for data analysis. For the complete jupyter notebook, you can find it on my GitHub repository [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/chw18019/Potoo-Solutions)._
 {: .notice--primary}
 
 # Introduction
-> “The era when warehouses and distribution centers stood as large, staid structures designed to simply meet the demand created by sales from America’s retailers, has evolved into a complex technological infrastructure servicing today’s rapidly expanding Ecommerce space”
-
- ― [Marketing at Rakuten, 2019](https://www.rakutensl.com/post/how-ecommerce-is-transforming-todays-supply-chain) 
+> “The era when warehouses and distribution centers stood as large, staid structures designed to simply meet the demand created by sales from America’s retailers, has evolved into a complex technological infrastructure servicing today’s rapidly expanding Ecommerce space” ― [Marketing at Rakuten, 2019](https://www.rakutensl.com/post/how-ecommerce-is-transforming-todays-supply-chain) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the rise of Ecommerce, the landscape of supply chain management has changed drastically. This is in large part due to third-party sellers, who cause items to end up in online marketplaces for lower prices than they would traditionally be sold at brick and mortar retailers. 
 
@@ -24,7 +22,7 @@ _This capstone project is guided by Professor Jennifer Eigo and Potoo CEO, Fred 
 
 {% include figure image_path="/assets/200504/potoo-bio.png = 100x200" alt="Potoo solutions" %}
 
-![](./assets/200504/potoo-bio.png = 100x200)
+![](./assets/200504/potoo-bio.png)
 
 # Data
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The data was provided by Potoo Solutions. I believed Web scraping was perfromed from the well known E-Marketplace Amazon. In this project, the challenge is the data is anything but clean. Multiple files were provided, and the team had to figure out the entity relationships before data analysis. 
