@@ -16,7 +16,7 @@ _This capstone project is guided by Professor Jennifer Eigo and Potoo CEO, Fred 
 # Introduction
 > “The era when warehouses and distribution centers stood as large, staid structures designed to simply meet the demand created by sales from America’s retailers, has evolved into a complex technological infrastructure servicing today’s rapidly expanding Ecommerce space”
 
- ― [Marketing at Rakuten | Oct 8, 2019](https://www.rakutensl.com/post/how-ecommerce-is-transforming-todays-supply-chain) 
+ ― [Marketing at Rakuten, 2019](https://www.rakutensl.com/post/how-ecommerce-is-transforming-todays-supply-chain) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the rise of Ecommerce, the landscape of supply chain management has changed drastically. This is in large part due to third-party sellers, who cause items to end up in online marketplaces for lower prices than they would traditionally be sold at brick and mortar retailers. 
 
