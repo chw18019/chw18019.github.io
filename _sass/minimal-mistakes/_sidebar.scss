@@ -33,7 +33,7 @@
       overflow-y: auto;
       /* calculate height of nav list */
       height: calc(
-        100vh - 90px - 2em
+        100vh - #{$nav-height} - 2em
       ); // viewport height - approx. masthead height - main content top margin
     }
   }
