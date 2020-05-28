@@ -8,7 +8,7 @@ header:
 excerpt: "Predict the third-party sellers' resources by building a classifier with Python. (Difficulty: ★★★☆☆)"
 toc: true
 toc_label: "Content"
-
+toc_sticky: true
 ---
 _This capstone project is guided by Professor Jennifer Eigo and Potoo CEO, Fred Dimyan. In this post, I'll provide the partial code to manifest some important techniques with `Python` for data analysis. For the complete jupyter notebook, you can find it on my GitHub repository [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/chw18019/Potoo-Solutions)._
 {: .notice--primary}
