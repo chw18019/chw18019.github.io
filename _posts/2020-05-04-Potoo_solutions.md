@@ -20,9 +20,7 @@ _This capstone project is guided by Professor Jennifer Eigo and Potoo CEO, Fred 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here is when [Potoo Solutions](https://potoosolutions.com/) comes in. The company strives to help clients take back control of their brands with data-driven solutions. The purpose of this project is to predict the third-party selles' resources, to better equip companies to operate in this new environment.
 
-{% include figure image_path="/assets/200504/potoo-bio.png = 100x200" alt="Potoo solutions" %}
-
-![](./assets/200504/potoo-bio.png)
+{% include figure image_path="/assets/200504/potoo-bio.png" alt="Potoo solutions" %}
 
 # Data
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The data was provided by Potoo Solutions. I believed Web scraping was perfromed from the well known E-Marketplace Amazon. In this project, the challenge is the data is anything but clean. Multiple files were provided, and the team had to figure out the entity relationships before data analysis. 
