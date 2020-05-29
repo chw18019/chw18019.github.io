@@ -5,6 +5,7 @@ tags: [Data visualization, Python]
 header:
   overlay_image: /assets/200217/ks-kyung.jpg
   caption: "Photo credit: [**Ks Kyung**](https://unsplash.com)"
+  teaser: /assets/200217/ks-kyung.jpg
 excerpt: "EDA and Visualization with Python. (Difficulty: ★★★☆☆)"
 toc: true
 toc_label: "Content"
