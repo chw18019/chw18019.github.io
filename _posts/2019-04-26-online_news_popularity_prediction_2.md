@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/190426/ytcount-online_news.jpg
   caption: "Photo credit: [**YTcount**](https://unsplash.com)"
   teaser: /assets/190426/ytcount-online_news.jpg
-excerpt: "Using Python to perform data pre-processing and data modeling. (Difficulty: ★★☆☆☆)"
+excerpt: "Using Python to perform data pre-processing and data modeling. (Difficulty: ★★★☆☆)"
 toc: true
 toc_label: "Content"
 toc_sticky: true
