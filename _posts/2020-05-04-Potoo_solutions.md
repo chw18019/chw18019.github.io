@@ -5,6 +5,7 @@ tags: [Machine Learning, Data Pre-processing, Python]
 header:
   overlay_image: /assets/200504/scott-graham.jpeg
   caption: "Photo credit: [**Scott Graham**](https://unsplash.com)"
+  teaser: /assets/200504/scott-graham.jpeg
 excerpt: "Predict the third-party sellers' resources by building a classifier with Python. (Difficulty: ★★★★☆)"
 toc: true
 toc_label: "Content"
