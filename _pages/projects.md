@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 permalink: /projects/
 title: "Projects"
 author_profile: true
@@ -17,8 +17,8 @@ feature_row1-1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-
+#{% include feature_row id="feature_row1-1" type="left" %}
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You will find my projects and previous work on the page. The topics contain machine learning with `Python`, data visualization, database management with `SQL`, and other API and analysis techniques. Without further ado, enjoy reading!
 
-{% include feature_row id="feature_row1-1" type="left" %}
+
