@@ -15,7 +15,7 @@ _When I worked on the [Online News Popularity Prediction project](https://chw180
 {: .notice--primary}
 
 ## Introduction
-Web scraping is not a new technique, and the first **crawler-based web search engine** can be found in 1993. The history of the web scraping data dates back nearly to the time when the Internet was born. Nowadays, Python is one of the popular languages for web scraping. [This article](https://www.scrapehero.com/python-web-scraping-frameworks/) lists popular Python web scraping framworks and libraries. [Scrapy](https://scrapy.org/) is not the only one you can use, but I found it simple and fast to do the job.
+The history of the web scraping data dates back nearly to the time when the Internet was born. It is not a new technique, and the first **crawler-based web search engine** can be found in 1993. Nowadays, Python is one of the popular languages for web scraping. [This article](https://www.scrapehero.com/python-web-scraping-frameworks/) lists popular Python web scraping framworks and libraries. [Scrapy](https://scrapy.org/) is not the only one you can use, but I found it simple and fast to do the job.
 
 ## Fundamental of Web Scraping 
 When you click on a link, your computer will send a request to the server for the contents of a webpage. This information is usually returned in `HTML` format. Web scraper performs the same process. Then, it can be used to extract and store the wanted data from webpages. 
