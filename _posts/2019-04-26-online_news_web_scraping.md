@@ -11,7 +11,7 @@ toc: true
 toc_label: "Content"
 toc_sticky: true
 ---
-_When I worked on this project, I wondered if I could have more different types of data to predict the popularity, such as title and contents. So, I taught myself and found Scrapy, an open-source framework for extracting the data from websites. For the complete jupyter notebook, you can find it on my GitHub repository. [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/chw18019/Web-Scraping-with-Scrapy)_
+_When I worked on the [Online News Popularity Prediction project](https://chw18019.github.io/online_news_popularity_prediction_1/), I wondered if I could have more different types of data to predict the popularity, such as title and contents. So, I taught myself and found Scrapy, an open-source framework for extracting the data from websites. For the complete jupyter notebook, you can find it on my GitHub repository. [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/chw18019/Web-Scraping-with-Scrapy)_
 {: .notice--primary}
 
 ## Introduction
@@ -81,7 +81,6 @@ class QuotesSpider(scrapy.Spider):
                 'parsely-metadata' :response.xpath("//meta[@name='parsely-metadata']/@content")[0].extract(),
                 'json': response.xpath("//script[@type='application/ld+json']")[0].extract(),
             }
-            
 ```
 Then you can use this code to run the spider to initial the spider. 
 ```
@@ -90,7 +89,8 @@ $ scrapy crawl quotes
 
 ### Data Prep
 After getting the data, I then extract the article body in the 'json' variables. I wrote a function to extract and store the article body into JSON format.
-``` Python 
+
+```python
 import json
 import pandas as pd
 
