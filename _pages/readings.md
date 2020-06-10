@@ -21,6 +21,10 @@ gallery1:
     image_path: /assets/reading/python_da.jpg
     alt: "placeholder image 3"
     title: "Python for Data Analysis"
+  - url: https://www.amazon.com/Praxiseinstieg-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B078TKWJXT
+    image_path: /assets/reading/hands-on_ML.jpg
+    alt: "placeholder image 4"
+    title: "Hands on Machine Learning with Scikit-Learn and Tensorflow"
 
 gallery2:
   - url: http://themlbook.com/
