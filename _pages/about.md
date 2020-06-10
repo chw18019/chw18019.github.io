@@ -11,4 +11,4 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the meanwhile, I enjoyed working on the school projects and side projects. They are mainly machine learning projects but not limit to. For examples, I used web scraping API `Scrapy` and twitter API `Tweepy` to generate data from  Websites. For more details, you can navigate to the [Project page](https://chw18019.github.io/projects). I believe with my skills and experience, I will make positive contributions to your team. 
 
-Feel free to [Contact me](mailto:chi-hua.wu@uconn.edu?subject=[GithubPages]) if you think I might be a good fit to your company. 
+Feel free to [contact me](mailto:chi-hua.wu@uconn.edu?subject=[GithubPages]) if you think I might be a good fit to your company. 
