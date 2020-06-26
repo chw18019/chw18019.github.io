@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chi-Hua Wu 吳紀華"
+title                    : "Chi-Hua Wu"
 title_separator          : "-"
 name                     : "Chi-Hua Wu"
 description              : #"Actively seeking a data analyst position"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chi-Hua Wu <br>吳紀華"
+  name             : "Chi-Hua Wu (吳紀華)"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS in Business Analytics at UConn<br>BS in Statistics at FJU<br>Actively seeking a data analyst position"
   location         : "Astoria, NY"
