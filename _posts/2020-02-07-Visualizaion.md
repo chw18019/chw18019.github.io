@@ -4,7 +4,7 @@ date: 2020-02-17
 tags: [Data visualization, Python]
 header:
   overlay_image: /assets/200217/carlos_muza.jpeg
-  caption: "Photo credit: [**Ks Kyung**](https://unsplash.com)"
+  caption: "Photo credit: [**Carlos Muza**](https://unsplash.com)"
   teaser: /assets/200217/ks-kyung.jpg
 excerpt: "EDA and Visualization with Python. (Difficulty: ★★★☆☆)"
 toc: true
