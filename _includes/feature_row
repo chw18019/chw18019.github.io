@@ -17,6 +17,8 @@
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
+          {% if f.url %}
+          <a href="{{ f_url }}">
           <div class="archive__item-teaser">
             <img src=
               {% if f.image_path contains "://" %}
@@ -25,6 +27,8 @@
                 "{{ f.image_path | absolute_url }}"
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+          </a>
+          {% endif %}
           </div>
         {% endif %}
 
@@ -39,9 +43,7 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f_url }}">{{ f.image_path | f.title}}</a></p>
-          {% endif %}
+
         </div>
       </div>
     </div>
