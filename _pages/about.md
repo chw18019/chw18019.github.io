@@ -14,8 +14,7 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having a keen eye for details and a passion for data, I am eager and capable of turning raw data into business solutions. Please feel free to [contact me](mailto:chi-hua.wu@uconn.edu?subject=[GithubPages]) if you think I might be a good fit to your company. 
 
-
-
+<br>
 # ✳︎ A little bit more about me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm born and raised in Taiwan by the supportive parents for any decision I made. I'm good at math and biology, at least in junior high school. It led me to study Statistics and Business Analytics, and my apartment always filled with plants. 
 
