@@ -87,7 +87,7 @@ author:
   name             : "Chi-Hua Wu"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS in Business Analytics at UConn<br>BS in Statistics at FJU<br>Actively seeking a data analyst position"
-  location         : "Astoria, NY"
+  location         : "Jersey City, NJ"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
