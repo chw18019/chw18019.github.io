@@ -16,4 +16,4 @@ header:
 
 <br>
 # A little bit more about me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm born and raised in Taiwan by the supportive parents for any decision I made. I'm good at math and biology, at least in junior high school. It led me to study Statistics and Business Analytics, and my apartment always filled with plants. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm born and raised in Taiwan, and I am always patient about numbers! It leads me to study statistics and business analytics. Learning Python is one of the things that makes me the happiest person in the world. It has so many possibilities, such as building predictive models, processing unstructured data(photos or video), and even building this website! 
