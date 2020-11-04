@@ -6,6 +6,8 @@ main:
     url: /projects/
   - title: "Readings"
     url: /readings/
+  - title: "Collections"
+    url: /tag-archive/
   - title: "Resume"
     url: /assets/docs/Resume.pdf
   # - title: "About"
